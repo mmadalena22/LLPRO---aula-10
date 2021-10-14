@@ -1,2 +1,2 @@
-# LLPRO---aula-10
+# LLPRO-aula10
 Aula pe programação estruturada
